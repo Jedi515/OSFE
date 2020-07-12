@@ -1,0 +1,46 @@
+{
+  "OSFE:D":
+  {
+    "TEXT": ["%s NL Extra play, +1 [E] cost."]
+  },
+  "OSFE:I":
+  {
+    "TEXT": ["Innate. NL %s"]
+  },
+  "OSFE:L":
+  {
+    "TEXT": ["%s NL Increase Max HP by %d and Purge."]
+  },
+  "OSFE:M":
+  {
+    "TEXT": ["%s NL -1 [E] cost."]
+  },
+  "OSFE:O":
+  {
+    "TEXT": ["%s NL Double damage and Exhaust."]
+  },
+  "OSFE:P":
+  {
+    "TEXT": ["%s NL +%d Poison."]
+  },
+  "OSFE:S":
+  {
+    "TEXT": ["%s NL +%d Shivs."]
+  },
+  "OSFE:U":
+  {
+    "TEXT": ["%s NL Upgrade created card(s)."]
+  },
+  "OSFE:V":
+  {
+    "TEXT": ["%s NL +1 Vulnerable."]
+  },
+  "OSFE:W":
+  {
+    "TEXT": ["%s NL +1 Weak."]
+  },
+  "OSFE:X":
+  {
+    "TEXT": ["%s NL +2 to X effect."]
+  }
+}
